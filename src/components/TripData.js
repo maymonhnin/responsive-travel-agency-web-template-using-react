@@ -9,7 +9,7 @@ export default function TripData(props) {
         <span className='t-head-title'>
 
 </span>
-            <img src={props.image} alt='image'/>
+            <img src={props.image} alt='trip1'/>
         </div>
         <h4>
             {props.heading}

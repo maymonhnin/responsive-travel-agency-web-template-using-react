@@ -1,11 +1,3 @@
-# M TRAVELLING WEB TEMPLATE SAMPLE 
-
-# FDM REACT BATCH 1 # ASSIGNMENT 2
-
-# DEVELOPED BY MAY MON HNIN
-
-# REFERENED FROM A YOUTUBE VIDEO
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# M TRAVELLING WEB TEMPLATE SAMPLE 
+
+# REFERENED FROM A YOUTUBE VIDEO

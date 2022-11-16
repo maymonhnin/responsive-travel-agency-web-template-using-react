@@ -1,3 +1,11 @@
+# M TRAVELLING WEB TEMPLATE SAMPLE 
+
+# FDM REACT BATCH 1 # ASSIGNMENT 2
+
+# DEVELOPED BY MAY MON HNIN
+
+# REFERENED FROM A YOUTUBE VIDEO
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
